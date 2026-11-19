@@ -62,37 +62,3 @@ def jogar():
           break
 jogar()
 
-notas = [
-    [7.0, 9.0],
-    [5.0, 6.0],
-    [8.0, 8.0]
-]
-
-# contador para identificar o estudante
-numero_estudante = 1
-
-for linha in notas:
-    # Calcula a média somando as notas e dividindo pela quantidade (len)
-    media = sum(linha) / len(linha)
-
-    print(f"Média do estudante {numero_estudante}: {media:.1f}")
-
-    # Incrementa para o próximo estudante
-    numero_estudante += 1
-
-def calcular_media(notas):
-    # Calcula a média somando os valores e dividindo pela quantidade de elementos
-    media = sum(notas) / len(notas)
-
-    # Devolve a média utilizando return
-    return media
-
-# Listas fornecidas no enunciado
-lista_1 = [7.0, 9.0]
-lista_2 = [5.0, 6.0]
-lista_3 = [8.0, 8.0]
-
-# Chamada da função e exibição dos resultados
-print(f"Média da primeira lista: {calcular_media(lista_1)}")
-print(f"Média da segunda lista: {calcular_media(lista_2)}")
-print(f"Média da terceira lista: {calcular_media(lista_3)}")
