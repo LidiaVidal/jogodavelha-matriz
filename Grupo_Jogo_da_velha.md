@@ -53,3 +53,17 @@ Na transição da **Versão 1** para a **Versão 2**, o programa deixou de ser u
 | **Exibição do tabuleiro** | Impressão direta das listas (`print(linha)`). | Formatada com separadores `" | "` e linha `"-" * 15` via `exibir_tabuleiro`. |
 | **Anúncio de vitória** | Mensagem fixa (`"Temos um vencedor"` / `"Temos um vencendor"`). | Mensagem personalizada exibindo o nome do jogador vencedor. |
 | **Conteúdo extra** | Contém apenas o Jogo da Velha. | Inclui dois exercícios extras de cálculo de média com listas e função `calcular_media`. |
+
+---
+
+## 📊 4. Membros do Grupo:
+
+* ***Lídia Souza Vidal***
+* ***Rafael Vinicius Viana***
+* ***Thaís Pereira Cardoso***
+* ***Gabriel Rocha Couto***
+* ***Helena Dutra Braga***
+* ***Paulo Eduardo Roma G. Júnior***
+* ***Arthur Oliveira Antunes***
+* ***Artur Carvalho Freires***
+* ***Matteo da Silva Rodriguez***
