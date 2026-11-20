@@ -49,4 +49,4 @@ while True:
         break
     if all("□" not in linha for linha in Tabuleiro):
         print("Deu velha!")
-        
+        break
