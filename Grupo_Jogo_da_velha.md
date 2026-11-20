@@ -56,7 +56,7 @@ Na transição da **Versão 1** para a **Versão 2**, o programa deixou de ser u
 
 ---
 
-## 📊 4. Membros do Grupo:
+## 🤝 4. Membros do Grupo:
 
 * ***Lídia Souza Vidal***
 * ***Rafael Vinicius Viana***
