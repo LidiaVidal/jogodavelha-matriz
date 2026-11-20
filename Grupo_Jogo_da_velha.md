@@ -64,6 +64,6 @@ Na transição da **Versão 1** para a **Versão 2**, o programa deixou de ser u
 * ***Gabriel Rocha Couto***
 * ***Helena Dutra Braga***
 * ***Paulo Eduardo Roma G. Júnior***
-* ***Arthur Oliveira Antunes***
+* ******
 * ***Artur Carvalho Freires***
 * ***Matteo da Silva Rodriguez***
